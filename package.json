@@ -4,7 +4,8 @@
   "description": "Just learning and experimenting with nodejs and expressjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "repository": {
     "type": "git",
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Amirth24/node_and_express/issues"
   },
-  "homepage": "https://github.com/Amirth24/node_and_express#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/Amirth24/node_and_express#readme"
 }
