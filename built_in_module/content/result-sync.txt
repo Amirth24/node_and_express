@@ -1,0 +1,10 @@
+File 1: This is the content of first text file. 
+
+
+This file has four lines, two of them are empty.
+, This is second text file. This file has only one line.
+This is the content of first text file. 
+
+
+This file has four lines, two of them are empty.
+, This is second text file. This file has only one line.

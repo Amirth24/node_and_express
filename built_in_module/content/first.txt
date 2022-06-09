@@ -1,0 +1,4 @@
+This is the content of first text file. 
+
+
+This file has four lines, two of them are empty.
